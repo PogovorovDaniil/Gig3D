@@ -1,0 +1,10 @@
+﻿  ampDll.cpp
+C:\Users\gigst\source\repos\Gig2DTest\Gig2Dbase\ampDll.cpp(33,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\gigst\source\repos\Gig2DTest\Gig2Dbase\ampDll.cpp(34,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     Создается библиотека C:\Users\gigst\source\repos\Gig3DTest\Release\Gig3Dbase.lib и объект C:\Users\gigst\source\repos\Gig3DTest\Release\Gig3Dbase.exp
+  Создание кода
+  11 of 205 functions ( 5.4%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Gig3Dbase.vcxproj -> C:\Users\gigst\source\repos\Gig3DTest\Release\Gig3Dbase.dll

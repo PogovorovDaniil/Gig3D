@@ -1,0 +1,6 @@
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\bin\Debug\Gig3D.dll
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\bin\Debug\Gig3D.pdb
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\obj\Debug\Gig3D.csprojAssemblyReference.cache
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\obj\Debug\Gig3D.csproj.CoreCompileInputs.cache
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\obj\Debug\Gig3D.dll
+C:\Users\gigst\source\repos\Gig3DTest\Gig3D\obj\Debug\Gig3D.pdb

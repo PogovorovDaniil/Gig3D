@@ -1,0 +1,20 @@
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.exe.config
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.exe
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.pdb
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3D.dll
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3D.pdb
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csprojAssemblyReference.cache
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csproj.CoreCompileInputs.cache
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csproj.CopyComplete
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.exe
+C:\Users\gigst\source\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.pdb
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.exe.config
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.exe
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3DTest.pdb
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3D.dll
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\bin\Release\Gig3D.pdb
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csproj.AssemblyReference.cache
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csproj.CoreCompileInputs.cache
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.csproj.CopyComplete
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.exe
+D:\меню\математика и программирование\repos\Gig3DTest\Gig3DTest\obj\Release\Gig3DTest.pdb

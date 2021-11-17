@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  ampDll.cpp
+C:\Users\gigst\source\repos\Gig2DTest\Gig2Dbase\ampDll.cpp(24,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\gigst\source\repos\Gig2DTest\Gig2Dbase\ampDll.cpp(25,11): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+  winapiDll.cpp
+  Создание кода...
+     Создается библиотека C:\Users\gigst\source\repos\Gig3DTest\Debug\Gig3Dbase.lib и объект C:\Users\gigst\source\repos\Gig3DTest\Debug\Gig3Dbase.exp
+  Gig3Dbase.vcxproj -> C:\Users\gigst\source\repos\Gig3DTest\Debug\Gig3Dbase.dll
